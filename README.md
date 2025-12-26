@@ -65,7 +65,7 @@ PRs are welcome.
 
 ## 📜 License
 
-MIT License  
+Apache2.0 License  
 Do whatever you want, but don’t blame us.
 
 ---
